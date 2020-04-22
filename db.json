@@ -1,11 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "confirmed":{
+     "value":427
+  },
+  "recovered":{
+     "value":308
+
+  },
+  "deaths":{
+     "value":2
+  },
+  "active":{
+    "value":117
+ },
+  "lastUpdate":"2020-04-22T09:38:24.000Z"
 }
